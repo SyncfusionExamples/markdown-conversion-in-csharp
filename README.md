@@ -13,6 +13,7 @@ This repository contains examples that illustrates how to convert Word documents
 
 - **Product page:** [Syncfusion Word Framework](https://www.syncfusion.com/document-processing/word-framework/net)
 - **Documentation:** [Convert Word to Markdown using Syncfusion Word library](https://help.syncfusion.com/file-formats/docio/convert-word-document-to-markdown-in-csharp)
+- **GitHub Examples:** [Syncfusion Word library examples](https://github.com/SyncfusionExamples/DocIO-Examples)
 - **Online demo:** [Syncfusion Word library - Online demos](https://ej2.syncfusion.com/aspnetcore/Word/WordToMarkdown#/fluent)
 
 ## Supported File Formats
