@@ -33,7 +33,7 @@ namespace Save_images_as_separate_files
         static void SaveImage(object sender, ImageNodeVisitedEventArgs args)
         {
             //Image path to save the images in an external folder.
-            string imagepath = @"E:\WordToMD\Image_" + imageCount + ".png";
+            string imagepath = Path.GetFullPath(@"../../../Image_") + imageCount + ".png";
             //Save the image stream as a file. 
             using (FileStream fileStreamOutput = File.Create(imagepath))
                 args.ImageStream.CopyTo(fileStreamOutput);
