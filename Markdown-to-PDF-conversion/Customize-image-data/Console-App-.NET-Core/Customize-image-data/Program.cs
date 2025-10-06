@@ -27,7 +27,7 @@ namespace Customize_image_data
                         using (PdfDocument pdfDocument = renderer.ConvertToPDF(document))
                         {
                             // Save the PDF file to the file system.
-                            using (FileStream outputStream = new FileStream(@"../../../Output.pdf", FileMode.Create, FileAccess.ReadWrite))
+                            using (FileStream outputStream = new FileStream(@"../../../MarkdownToPDF.pdf", FileMode.Create, FileAccess.ReadWrite))
                             {
                                 pdfDocument.Save(outputStream);
                             }

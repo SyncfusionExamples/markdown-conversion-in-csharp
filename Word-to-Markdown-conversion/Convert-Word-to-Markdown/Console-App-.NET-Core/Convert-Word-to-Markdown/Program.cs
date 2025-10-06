@@ -8,7 +8,6 @@ namespace Convert_Word_to_Markdown
     {
         static void Main(string[] args)
         {
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("Mgo+DSMBMAY9C3t2VFhiQlJPd11dXmJWd1p/THNYflR1fV9DaUwxOX1dQl9gSXpRckRkWXhcdnxdRWE=");
             //Open a file as a stream.
             using (FileStream fileStreamPath = new FileStream(Path.GetFullPath(@"../../../Input.docx"), FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
             {
