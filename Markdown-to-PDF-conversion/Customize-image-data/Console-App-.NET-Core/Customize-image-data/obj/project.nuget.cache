@@ -1,0 +1,29 @@
+{
+  "version": 2,
+  "dgSpecHash": "pa8fGWx9gRs=",
+  "success": true,
+  "projectFilePath": "D:\\Documentation\\Blog\\Markdown to PDF\\markdown-conversion-in-csharp\\Markdown-to-PDF-conversion\\Customize-image-data\\Console-App-.NET-Core\\Customize-image-data\\Customize-image-data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\bitmiracle.libtiff.net\\2.4.649\\bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\harfbuzzsharp\\8.3.0.1\\harfbuzzsharp.8.3.0.1.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\harfbuzzsharp.nativeassets.macos\\8.3.0.1\\harfbuzzsharp.nativeassets.macos.8.3.0.1.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\harfbuzzsharp.nativeassets.win32\\8.3.0.1\\harfbuzzsharp.nativeassets.win32.8.3.0.1.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\skiasharp\\3.116.1\\skiasharp.3.116.1.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\skiasharp.harfbuzz\\3.116.1\\skiasharp.harfbuzz.3.116.1.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\skiasharp.nativeassets.macos\\3.116.1\\skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\skiasharp.nativeassets.win32\\3.116.1\\skiasharp.nativeassets.win32.3.116.1.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.compression.net.core\\31.1.22\\syncfusion.compression.net.core.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.docio.net.core\\31.1.22\\syncfusion.docio.net.core.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.dociorenderer.net.core\\31.1.22\\syncfusion.dociorenderer.net.core.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.licensing\\31.1.22\\syncfusion.licensing.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.markdown\\31.1.22\\syncfusion.markdown.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.metafilerenderer.net.core\\31.1.22\\syncfusion.metafilerenderer.net.core.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.officechart.net.core\\31.1.22\\syncfusion.officechart.net.core.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.pdf.imaging.net.core\\31.1.22\\syncfusion.pdf.imaging.net.core.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.pdf.net.core\\31.1.22\\syncfusion.pdf.net.core.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\syncfusion.skiasharphelper.net.core\\31.1.22\\syncfusion.skiasharphelper.net.core.31.1.22.nupkg.sha512",
+    "C:\\Users\\MathanKumarVaradhara\\.nuget\\packages\\system.text.encoding.codepages\\4.4.0\\system.text.encoding.codepages.4.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

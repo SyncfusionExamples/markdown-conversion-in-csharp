@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documentation\\Blog\\Markdown to PDF\\markdown-conversion-in-csharp\\Markdown-to-PDF-conversion\\Convert-Markdown-to-PDF\\Console-App-.NET-Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{573559F6-6987-4C96-A3A0-4D3D2332ABF6}|Convert-Markdown-to-PDF\\Convert-Markdown-to-PDF.csproj|d:\\documentation\\blog\\markdown to pdf\\markdown-conversion-in-csharp\\markdown-to-pdf-conversion\\convert-markdown-to-pdf\\console-app-.net-core\\convert-markdown-to-pdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573559F6-6987-4C96-A3A0-4D3D2332ABF6}|Convert-Markdown-to-PDF\\Convert-Markdown-to-PDF.csproj|solutionrelative:convert-markdown-to-pdf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documentation\\Blog\\Markdown to PDF\\markdown-conversion-in-csharp\\Markdown-to-PDF-conversion\\Convert-Markdown-to-PDF\\Console-App-.NET-Core\\Convert-Markdown-to-PDF\\Program.cs",
+              "RelativeDocumentMoniker": "Convert-Markdown-to-PDF\\Program.cs",
+              "ToolTip": "D:\\Documentation\\Blog\\Markdown to PDF\\markdown-conversion-in-csharp\\Markdown-to-PDF-conversion\\Convert-Markdown-to-PDF\\Console-App-.NET-Core\\Convert-Markdown-to-PDF\\Program.cs",
+              "RelativeToolTip": "Convert-Markdown-to-PDF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T11:34:56.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
