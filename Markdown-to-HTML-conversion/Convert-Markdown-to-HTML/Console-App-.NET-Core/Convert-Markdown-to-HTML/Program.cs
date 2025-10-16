@@ -2,7 +2,7 @@
 using Syncfusion.DocIO.DLS;
 using System.IO;
 
-namespace Convert_Markdown_to_Word
+namespace Convert_Markdown_to_HTML
 {
     class Program
     {
