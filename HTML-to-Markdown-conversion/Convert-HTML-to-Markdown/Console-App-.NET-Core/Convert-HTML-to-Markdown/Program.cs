@@ -7,7 +7,6 @@ namespace Convert_HTML_to_Markdown
     {
         static void Main(string[] args)
         {
-            Syncfusion.Licensing.SyncfusionLicenseProvider.RegisterLicense("NxYtFisQPR08Cit/Vkd+XU9FfV5AQmBIYVp/TGpJfl96cVxMZVVBJAtUQF1hTH9Tdk1iWn1fcHJcTmVZWkd3");
             //Open a file as a stream.
             using (FileStream fileStreamPath = new FileStream(Path.GetFullPath(@"input.html"), FileMode.Open, FileAccess.Read, FileShare.ReadWrite))
             {

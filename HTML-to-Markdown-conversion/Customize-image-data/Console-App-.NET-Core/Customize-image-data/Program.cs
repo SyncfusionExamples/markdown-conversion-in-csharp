@@ -15,16 +15,16 @@ namespace Customize_image_data
                 //Create a Word document instance.
                 using (WordDocument document = new WordDocument())
                 {
-                    //Hook the event to customize the image while importing Markdown.
+                    //Hooks the ImageNodeVisited event to open the image from a specific location
                     document.HTMLImportSettings.ImageNodeVisited += OpenImage;
-                    //Open an existing Markdown file.
+                    //Open an existing HTML file.
                     document.Open(fileStreamPath, FormatType.Html);
                     //Unhooks the ImageNodeVisited event after loading HTML.
                     document.HTMLImportSettings.ImageNodeVisited -= OpenImage;
                     //Create a file stream.
                     using (FileStream outputFileStream = new FileStream(Path.GetFullPath(@"../../../HTMLToMarkdown.md"), FileMode.Create, FileAccess.ReadWrite))
                     {
-                        //Save the Word document in HTML Format.
+                        //Save the Word document in Markdown Format.
                         document.Save(outputFileStream, FormatType.Markdown);
                     }
                 }
